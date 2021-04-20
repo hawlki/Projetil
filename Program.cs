@@ -9,11 +9,9 @@ namespace projetil
             Console.Clear();
             Console.Beep();
 
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Etec Adolpho Berezin");
-            Console.WriteLine("Feito por Israel Camilo Lopes");
-            Console.WriteLine("1I3");
-            Console.WriteLine("-----------------------------");
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("          Projétil          ");
+            Console.WriteLine("----------------------------");
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write("Escreva um valor para a velocidade em (m/s): ");
